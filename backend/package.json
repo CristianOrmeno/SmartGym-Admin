@@ -1,0 +1,1 @@
+{\n  "name": "smart-gym-admin",\n  "version": "1.0.0",\n  "main": "src/server.js",\n  "scripts": {\n    "start": "node src/server.js",\n    "dev": "nodemon src/server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9",\n    "jsonwebtoken": "^8.5.1",\n    "socket.io": "^2.3.0",\n    "dotenv": "^8.2.0"\n  }\n}
